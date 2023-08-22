@@ -844,6 +844,32 @@
 
 }
 
+/* new pages start  */
+
+.test55{
+    margin-top: -50px;
+    height: 400px;
+    background-color: rgba(0,6,17,.75);
+    content: '';
+    background-color: rgba(0,6,17,.75) !important;
+    position: absolute;
+    z-index: -1;
+}
+.test56{
+    margin-top: -500px;
+}
+.test56 h5{
+    font-size: 50px;
+}
+.test56 h2{
+    font-size: 15px;
+    margin-left: 80px;
+}
+.test56 h3{
+    font-size: 15px;
+    margin-right: 80px;
+}
+
 
 
 
